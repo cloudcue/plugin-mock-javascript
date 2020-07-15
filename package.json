@@ -1,6 +1,6 @@
 {
   "name": "@cloudcue/plugin-mock-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
