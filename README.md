@@ -1,1 +1,1 @@
-# plugin-mock-javascript
+# plugin-mock-js
