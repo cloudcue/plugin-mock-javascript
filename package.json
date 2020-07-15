@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cloudcue/plugin-mock-js/issues"
   },
-  "homepage": "https://github.com/cloudcue/plugin-mock-js#readme"
+  "homepage": "https://github.com/cloudcue/plugin-mock-js#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
